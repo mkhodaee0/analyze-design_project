@@ -1,4 +1,4 @@
-package getapi
+package consume
 
 import (
 	"encoding/json"
