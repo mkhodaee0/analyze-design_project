@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "63aab065a6e537104e38a7ec"
+  },
+  "name": "IdeaPad Gaming 3-LC",
+  "brand": "lenovo",
+  "price": 650,
+  "category": "laptop"
+},{
+  "_id": {
+    "$oid": "63aab268a6e537104e38a7ed"
+  },
+  "name": "Aspire 3 A315-58G-30KZ-AB",
+  "brand": "acer",
+  "price": 400,
+  "category": "laptop"
+},{
+  "_id": {
+    "$oid": "63aab36fa6e537104e38a7ee"
+  },
+  "name": "Surface Laptop Go - B",
+  "brand": "microsoft",
+  "price": 700,
+  "category": "laptop"
+},{
+  "_id": {
+    "$oid": "63aab3fea6e537104e38a7ef"
+  },
+  "name": "Vostro 3515E",
+  "brand": "dell",
+  "price": 450,
+  "category": "laptop"
+},{
+  "_id": {
+    "$oid": "63aab479a6e537104e38a7f0"
+  },
+  "name": "INSPIRON 3583-5763-A",
+  "brand": "dell",
+  "price": 470,
+  "category": "laptop"
+}]
