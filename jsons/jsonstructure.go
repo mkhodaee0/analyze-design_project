@@ -1,4 +1,4 @@
-package main
+package jsons
 
 import "github.com/google/uuid"
 
